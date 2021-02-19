@@ -1,0 +1,9 @@
+
+let  x = 100;
+for(x = 100; x<=200; x++) {
+  if(x % 3 === 0) {
+    console.log("Loopy");
+  }else if(x % 4 === 0) {
+
+else(console.log(x))
+}
